@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "New Website1",
+      "body": "New Website1",
+      "author": "Ashu"
+    },
+    {
+      "id": 2,
+      "title": "New Website2",
+      "body": "New Website2",
+      "author": "Piyush"
+    }
+  ]
+}
